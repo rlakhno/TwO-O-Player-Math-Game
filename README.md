@@ -48,15 +48,8 @@ Regarding the additional questions:
 TwO-O-Player-Math-Game/
 math_game_project/
 │
-├── player.rb
-├── math_question.rb
-├── math_game.rb
-└── main.rb
-.
-├── build                   # Compiled files (alternatively `dist`)
-├── docs                    # Documentation files (alternatively `doc`)
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
-└── README.md
+├── player.rb 
+├── math_question.rb 
+├── math_game.rb 
+└── main.rb 
+

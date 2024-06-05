@@ -45,8 +45,8 @@ Regarding the additional questions:
 
 TwO-O-Player-Math-Game/
 │
-├── player.rb
-├── math_question.rb
-├── math_game.rb
-└── main.rb
+├── player.rb 
+├── math_question.rb 
+├── math_game.rb 
+└── main.rb 
 

@@ -42,3 +42,11 @@ Regarding the additional questions:
 - The class that will contain the game loop is `MathGame`.
 - `MathGame` should manage who the `current_player` is.
 - `MathGame` will contain user I/O, while `Player` and `MathQuestion` will not have any.
+
+TwO-O-Player-Math-Game/
+│
+├── player.rb
+├── math_question.rb
+├── math_game.rb
+└── main.rb
+

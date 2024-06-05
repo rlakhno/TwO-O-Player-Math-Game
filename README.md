@@ -45,11 +45,10 @@ Regarding the additional questions:
 
  Folder Structure
 
-TwO-O-Player-Math-Game/
-math_game_project/
-│
-├── player.rb 
-├── math_question.rb 
-├── math_game.rb 
-└── main.rb 
+`TwO-O-Player-Math-Game/`
+`│`
+`├── player.rb `
+`├── math_question.rb `
+`├── math_game.rb `
+`└── main.rb `
 

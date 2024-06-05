@@ -43,10 +43,17 @@ Regarding the additional questions:
 - `MathGame` should manage who the `current_player` is.
 - `MathGame` will contain user I/O, while `Player` and `MathQuestion` will not have any.
 
+ Folder Structure
+
+```
 TwO-O-Player-Math-Game/
 │
-├── player.rb 
-├── math_question.rb 
-├── math_game.rb 
-└── main.rb 
+├── player.rb
+├── math_question.rb
+├── math_game.rb
+└── main.rb
+```
+
+
+
 
